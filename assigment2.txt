@@ -1,0 +1,8 @@
+Assigmnet 1 
+ls: is used to list all the files in the directory 
+ls -1: is used to see all the list of file including the hidden files
+pwd: tells you the location of present directory
+touch: this command is to create a crete a file 
+cd .. : this command is used to exit the present directory my be file or the folder
+cd : call direcrory if we want to call any file folder we can use this 
+cd ~ : this is the home path 
